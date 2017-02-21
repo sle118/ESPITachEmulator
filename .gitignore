@@ -26,3 +26,11 @@
 *.exe
 *.out
 *.app
+
+#other stuff
+# pio
+.pioenvs
+.clang_complete
+.piolibdeps
+.gcc-flags.json
+.travis.yml
