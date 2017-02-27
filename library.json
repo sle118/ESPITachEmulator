@@ -23,7 +23,9 @@
     {
       "name": "IrServiceBase",
       "authors": "sle118",
-      "frameworks": "arduino"
+      "frameworks": "arduino",
+      "version": "https://github.com/sle118/IrServiceBase.git"
+      
     }
       ],
   "version": "1.0.0",
