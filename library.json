@@ -1,0 +1,32 @@
+{
+  "name": "ESPITachEmulator",
+  "keywords": "infrared, tcp,tcpip,service,global cache,itach",
+  "description": "Arduino Library for the ESP8266 product family which partially implements the global cache irsend protocol found in their line of products",
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/sle118/ESPITachEmulator.git"
+  },
+  "authors":
+  [
+    {
+      "name": "sle118",
+      "url": "http://github.com/sle118",
+      "maintainer": true
+    },
+    {
+      "name": "probonopd",
+      "url": "https://plus.google.com/u/0/105493415534008524873"
+    }
+  ],
+  "dependencies":[
+    {
+      "name": "IrServiceBase",
+      "authors": "sle118",
+      "frameworks": "arduino"
+    }
+      ],
+  "version": "1.0.0",
+  "frameworks": "arduino",
+  "platforms": "esp8266"
+}
