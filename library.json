@@ -19,16 +19,10 @@
       "url": "https://plus.google.com/u/0/105493415534008524873"
     }
   ],
-  "dependencies":[
-    {
-      "name": "IrServiceBase",
-      "authors": "sle118",
-      "frameworks": "arduino",
-      "version": "https://github.com/sle118/IrServiceBase.git"
-      
-    }
-      ],
+  "dependencies": {
+    "IrServiceBase": "^1.0.0"
+  },
   "version": "1.0.0",
   "frameworks": "arduino",
-  "platforms": "esp8266"
+  "platforms": "espressif8266"
 }
